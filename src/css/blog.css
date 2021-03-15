@@ -1,0 +1,27 @@
+
+#card{
+     padding: 30px;
+     box-shadow: 1px -10px 25px black;
+     cursor: pointer;
+}
+#card:hover{
+     padding: 30px;
+     background-color: antiquewhite;
+}
+#blog-p{
+     font-size: 20px;
+}
+#blog-img{
+     width: 253px;
+     height: 231px;
+}
+.card .title{
+     margin-bottom: 20px;
+}
+div#card{
+     margin-bottom: 10px;
+}
+.title p{
+     font-size: 20px;
+}
+

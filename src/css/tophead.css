@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans&display=swap');
+
+@media screen and (max-width: 600px) {
+    #tophead{
+         display: none;
+    }
+   }
+   ul{
+        margin-bottom: 0;
+   }
+   #tophead{
+        background-color: #f3f3f3;
+        
+   }
+
+#quick-contact{
+     float: right; 
+    
+}
+#quick-contact li{
+    display: inline-block;
+
+}
+
+.social-links li{
+     list-style: none;
+     display: inline-block;
+    
+}
+.social-links li:nth-child(1):hover{
+     list-style: none;
+     display: inline-block;
+     background-color:blue; 
+}
+.social-links li:nth-child(2):hover{
+     list-style: none;
+     display: inline-block;
+     background-color:skyblue; 
+    
+}
+.social-links li:nth-child(3):hover{
+     list-style: none;
+     display: inline-block;
+     background-color:#007cba; 
+    
+}
+.social-links li:nth-child(4):hover{
+     list-style: none;
+     display: inline-block;
+     background-color:red; 
+    
+}
+.social-links li:nth-child(5):hover{
+     list-style: none;
+     display: inline-block;
+     background-color:skyblue; 
+    
+}
+.social-links li a {
+     padding: 10px 10px;
+     font-family: 'Encode Sans', sans-serif;
+}
+
+.social-links li a i{
+  color: black;
+  font-size: 15px;
+  padding:10px 5px ;
+}
+#quick-contact li a{
+     text-decoration: none;
+     color: black;
+     padding:10px;
+}
+
+#quick-contact li a i{
+  
+     color: black;
+     font-size: 15px;
+     padding: 10px 10px;
+     
+ }
+
+ 
+ a.nav-link {
+     font-family: 'Encode Sans', sans-serif;
+     font-size: 24px;
+}
+a.navbar-brand {
+     font-size: 24px;
+     font-family: 'Encode Sans', sans-serif;
+     align-items: center;
+
+}

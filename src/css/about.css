@@ -1,0 +1,16 @@
+.banner{
+     height: 50vh;
+     background-color: yellow;
+     background-image: url("https://demo.wenthemes.com/travel-gem/wp-content/themes/travel-gem/images/default-banner.jpg");
+     width: 100%;
+     background-size: cover;
+}
+
+.banner h1{
+   
+     color: white;
+     font-weight: 900 !important;
+     padding-top: 100px;
+     text-align: center;     
+
+}

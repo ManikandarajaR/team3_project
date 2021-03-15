@@ -1,0 +1,65 @@
+<section>
+                    
+               <h1 className="text-center pt-5">Our Team</h1>
+               <p className="text-center mt-3">Wanderers</p>
+               <div className="container">
+                              <div className="card-width">
+                                   <img src={Kaviya} className="img"/>
+                                        <div className="card-content">
+                                             <p>KAVIYA SM</p>
+                                        </div>      
+                               </div>  
+     
+                              <div className="card-width">
+                                   <img href="" src="https://instagram.fmaa2-1.fna.fbcdn.net/v/t51.2885-15/e35/95260778_248881653151260_3280833585558525091_n.jpg?tp=1&_nc_ht=instagram.fmaa2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=W2cRJ-TppgwAX-PSpkW&oh=0e9ece1a61befb384d24fbbda9852f0b&oe=606C315C"/>
+                                        <div className="card-content">
+                                             <p>MANIKANDARAJA R</p>
+                                        </div>           
+                              </div> 
+                              <div className="card-width">
+                                   <img href="" src={Eraj}/>
+                                   <div className="card-content">
+                                        <p>ERAJAVIGNESH V</p>
+                                   </div>  
+                              </div>
+                              <div className="card-width">
+                                   <img src={Bakiya}/>
+                                   <div className="card-content">
+                                        <p>BAKIALAKSHMI G</p>
+                                   </div>
+                              </div>
+                              <div className="card-width">
+                                   <img src="https://instagram.fmaa2-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/29716915_438922896544005_802299165043326976_n.jpg?tp=1&_nc_ht=instagram.fmaa2-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=3EIgBYg8DMsAX_WVH7e&oh=8c8dfac228dadc2105b0715fb9ce40ae&oe=606B2CE3"/>
+                                   <div className="card-content">
+                                        <p>BALA AJITH KUMAR G </p>
+                                   </div>
+                              </div>
+                              <div className="card-width">
+                                   <img src={Abhitha}/>
+                                   <div className="card-content">
+                                        <p>ABHITHA </p>
+                                   </div>
+                              </div>
+                              <div className="card-width">
+                                   <img src={Kavin}/>
+                                   <div className="card-content">
+                                        <p>KAVIN KUMAR R </p>
+                                   </div>
+                              </div>
+                              <div className="card-width">
+                                   <img src={Dinesh}/>
+                                   <div className="card-content">
+                                        <p>DINESH Y </p>
+                                   </div>
+                              </div>
+                              <div className="card-width">
+                                   <img src={Gokul}/>
+                                   <div className="card-content">
+                                        <p>GOKUL</p>
+                                   </div>
+                              </div>
+                              
+                              </div>
+               
+               </section>
+               

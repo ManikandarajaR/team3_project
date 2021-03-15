@@ -1,0 +1,19 @@
+
+.card-wrapper{
+     padding: 10px;
+
+}
+.details{
+     padding: 20px;
+     text-align: center;
+     color: antiquewhite;
+}
+
+.card-img{
+     padding:10px;
+    
+}
+.card-img img{
+     border-radius: 20px;
+    
+}
