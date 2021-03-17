@@ -1,13 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-section{
-     height: 90vh;
 
-    
-}
 .hero-image {
-     background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url("https://demo.wenthemes.com/travel-gem/wp-content/uploads/sites/65/2018/10/banner-9.jpg");
-     height: 100%;
+     background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url("https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/07/Religious-Places-to-visit-in-India.jpg");
+     height: 90vh;
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -40,13 +36,49 @@ section{
   margin: auto;
 }
 footer{
-  background-color:rgb(0, 0, 0);
+  color: white;
   padding: 20px;
   text-align: center;
-  color: wheat;
+  background-color: #252831;
+  font-family: 'Encode Sans', sans-serif;
+  text-align: left !important;
+}
+
+.footer-top{
+  padding-top:40px;
 }
 #team{
+  background-color:rgba(32, 32, 32, 0.671);
+  height: 100vh;
+}
+.footer-top hr{
+  width: 50px;
+  height: 2px;
+  background-color:#FF7550;
+  margin: 0;
+ 
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
 
-background-color: rgb(75, 63, 63);
+.footer-top p{
+  font-size: 16px;
+}
 
+.footer-img img{
+  width: 80px ;
+  height: 80px;
+}
+.footer-b{
+  padding-bottom: 10px;
+}
+
+.dubai p{
+  padding-left: 10px;
+}
+
+.footer-top a{
+  text-align: left !important;
+  text-decoration: none;
+  color: white;
 }
