@@ -16,14 +16,13 @@ function App() {
     <div className="App">
       <Top/>
       <Navbar/>
-  
+                    
       <Route exact path="/" component={Home}/>
       <Route exact path="/About" component={About}/>
       <Route exact path="/Contact" component={Contact}/>
       <Route exact path="/Offer" component={Offer}/>
       <Route exact path="/Blog" component={Blog}/>
 
-    
     </div>
     
 
