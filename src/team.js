@@ -123,7 +123,7 @@ export class team extends Component {
                  </div>
                  <div className="card-wrapper">
                  <div className="card-img">
-                      <img src="https://instagram.fmaa2-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/29716915_438922896544005_802299165043326976_n.jpg?tp=1&_nc_ht=instagram.fmaa2-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=3EIgBYg8DMsAX_WVH7e&oh=8c8dfac228dadc2105b0715fb9ce40ae&oe=606B2CE3"/>
+                      <img src="https://instagram.fmaa2-1.fna.fbcdn.net/v/t51.2885-15/e35/27892356_1978653245731406_2025415480537251840_n.jpg?_nc_ht=instagram.fmaa2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jx_dA5CdfR0AX-OVCXZ&tn=hNeL5buMxB2omavI&edm=AABBvjUBAAAA&ccb=7-4&oh=3dd87283852ecc6081686ac789597d66&oe=613A8FF3&_nc_sid=83d603"/>
                  </div>   
                  <div className="details">
                       <h5>Bala Ajith</h5>
